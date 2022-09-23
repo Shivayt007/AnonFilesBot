@@ -24,9 +24,9 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 DOWNLOAD = "./"
 
 # vars
-APP_ID = Config.APP_ID
-API_HASH = Config.API_HASH
-BOT_TOKEN = Config.BOT_TOKEN
+APP_ID = 11221860
+API_HASH = '94b9d2bf87ba56465fd3d1925de3e0c7'
+BOT_TOKEN = '5108987521:AAFzEtFz2HkP4FBYsyKkA9xyCfuGHWXn4EQ'
 
    
 bot = Client(
